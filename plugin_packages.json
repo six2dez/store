@@ -1012,5 +1012,18 @@
     },
     "public_key": "MCowBQYDK2VwAyEAgnmUjobDBDWX8tUlWSQwzQ5MEFDrKhe0FuolgALZ4aA=",
     "repository": "ajayvb03/ai-recon-watcher"
+  },
+  {
+    "id": "defminer",
+    "name": "DefMiner",
+    "license": "MIT",
+    "description": "Passive JavaScript inventory for Caido: stores every script a target serves once by digest, reconstructs original sources from inline source maps, and retroactively scans traffic captured before it was installed.",
+    "author": {
+      "name": "six2dez",
+      "email": "six2dez@gmail.com",
+      "url": "https://github.com/six2dez"
+    },
+    "public_key": "MCowBQYDK2VwAyEAbttdEsqRZEFeMGU63rS241Q+KTc9oARmL1/SBw5LE/U=",
+    "repository": "six2dez/DefMiner"
   }
 ]
